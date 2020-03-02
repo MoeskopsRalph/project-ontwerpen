@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : ICM7555.LibPkg
+
+Section : C:\Users\ralph\OneDrive - PXL\pxl_drive\2019-2020 EA\project ontwerpen\oefeningen Altium\nixie-thermometer\components\ICM7555\ICM7555\ICM7555.lia
+    Section : PCB Library - ICM7555.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token 555 On Line 114
+            Warning - 1 : Skipping Token attachedSymbol On Line 215
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ICM7555.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 94
+            Warning - 1 : Skipping Token layerContents On Line 104
+            Warning - 1 : Skipping Token layerContents On Line 108
+        EndSection
+
+        Section : Generating SCH Library - ICM7555.SchLib
+        EndSection
+    EndSection
+EndSection
